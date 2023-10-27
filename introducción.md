@@ -1,0 +1,1 @@
+El término "DevOps" es una combinación de las palabras "development" (desarrollo) y "operations" (operaciones), pero representa un conjunto de ideas y prácticas que van más allá de ambos conceptos, ya sea que estén juntos o separados.
